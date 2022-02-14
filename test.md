@@ -1,1 +1,0 @@
-what if i make new page without link
