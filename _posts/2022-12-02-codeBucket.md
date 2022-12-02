@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "알고리즘 - 1"
+date:   2022-12-02 10:45:00 +0900
+categories: jekyll update
+---
 import java.io.*;
 import java.util.StringTokenizer;
 
